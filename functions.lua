@@ -1,3 +1,4 @@
+-- function 
 
 function KeyboardInput(entryTitle, textEntry, inputText, maxLength)
     AddTextEntry(entryTitle, textEntry)
