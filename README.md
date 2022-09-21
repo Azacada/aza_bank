@@ -1,6 +1,6 @@
 # aza_bank
 
-Script pour FiveM en Pmenu
+Script banque pour FiveM en Pmenu
 
 Framework ESX_LEGACY
 
